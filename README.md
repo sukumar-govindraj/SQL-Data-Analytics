@@ -117,6 +117,6 @@ sql-analytics/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/sql-analytics.git
+   git clone https://github.com/sukumar-govindraj/SQL-Data-Analytics.git
    cd sql-analytics
 
