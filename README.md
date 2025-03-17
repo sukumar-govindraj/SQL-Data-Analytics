@@ -36,7 +36,7 @@ Whether you’re a data analyst, BI developer, or just exploring SQL’s analyti
 
 ---
 
-## Project Structure
+```plaintext
 sql-analytics/
 ├── 1_Cumulative_Analysis.sql
 ├── 2_Performance_Analysis.sql
@@ -44,7 +44,9 @@ sql-analytics/
 ├── 4_Part_To_Whole_Analysis.sql
 ├── 5_Customer_Report.sql
 ├── 6_Product_Report.sql
-└── README.md  <-- You are here
+└── README.md         <-- You are here
+```
+
 
 - Each `.sql` file focuses on a distinct analytical theme.  
 - The scripts can be run independently, though they assume some common table structures (fact tables, dimension tables) in a `gold` schema.
